@@ -12,6 +12,8 @@ Microsoft 365 Copilot のエキサイティングな世界へようこそ。
 
 この魅力的な対話型のラボをナビゲートしながら、創造性とビジネスの感覚を解き放つ準備をしましょう。 この演習の終わりまでに、起業家の成功への道を示す教材の包括的なセットが作成されます。 それでは作業を開始し、企業向けのクリーニング会社を実現しましょう。
 
+> **重要**: この演習では、Copilot の操作に使用できるプロンプトを提供します。 これらは、Copilot の探索のための*出発点*として使用する必要があります。 これらのプロンプトを変更し、独自のプロンプトを追加して、Copilot との反復的なダイアログを利用し、生成された結果を調整することをお勧めします。 演習の手順で説明されている出力で終わるわけではありませんが、これで問題ありません。重要なのは Copilot を試してみることです。
+
 この演習の所要時間は約 **40** 分です。
 
 > **注**: この演習には、**Microsoft 365 Copilot** ライセンスが必要です。
@@ -51,7 +53,7 @@ Microsoft 365 Copilot のエキサイティングな世界へようこそ。
     How do I setup a new business in New York? Answer with a numbered list.
     ```
 
-1. 応答を確認し、必要に応じて、引き続き追加の質問をします。 応答に満足したら、応答の下にある **[コピー]** (&#128461;) アイコンを使用してクリップボードにコピーします。 既存のテキストの後に Word ドキュメントに貼り付けます。 次に、ニューヨークでビジネスを立ち上げるときに行うことの一覧を提供するテキストを選択し、選択したテキストの下部にある Copilot アイコンを使用して、テキストをテーブルとして視覚化します。
+1. 応答を確認し、必要に応じて、引き続き追加の質問をします。 応答に問題がなければ、クリップボードにコピーします。 既存のテキストの後に Word ドキュメントに貼り付けます。 次に、ニューヨークでビジネスを立ち上げるときに行うことの一覧を提供するテキストを選択し、選択したテキストの下部にある Copilot アイコンを使用して、テキストをテーブルとして視覚化します。
 
     ![テーブル形式で視覚化するように Copilot に求めるスクリーンショット。](./Media/copilot-rewrite-as-table.png)
 
@@ -82,7 +84,7 @@ Microsoft 365 Copilot のエキサイティングな世界へようこそ。
 
     ![ビジネス プランのドラフトを作成している Copilot のスクリーンショット。](./Media/copilot-draft-business-plan-prompt.png)
 
-    > **ヒント**: プロンプトを入力し、「/」と入力すると、Copilot で OneDrive フォルダー内のドキュメントを参照できるようになります。 Copilot がドキュメントを提案しない場合は、OneDrive のインデックスがまだ完全に作成されていない可能性があります。 この場合は、プロンプトを `Write a business plan for "Contoso Cleaning", a commercial cleaning buisness in New York. Include an executive summary, market overview, and financial projections.` に変更します。
+    > **ヒント**: プロンプトを入力し、「/」と入力すると、Copilot で OneDrive フォルダー内のドキュメントを参照できるようになります。 Copilot がドキュメントを提案しない場合は、OneDrive のインデックスがまだ完全に作成されていない可能性があります。 この場合は、プロンプトを `Write a business plan for "Contoso Cleaning", a commercial cleaning business in New York. Include an executive summary, market overview, and financial projections.` に変更します。
 
 1. 応答を生成して確認します。 次に、応答を保持して、トーン、長さを調整するか、新しいプロンプトを使って再生成するように Copilot に要求します。 OneDrive フォルダーに **Business Plan.docx** として保存する前に、適切な見出しとスタイルをドキュメントに適用して、プロフェッショナルに見えるようにします。 ドキュメントは次のようになります。
 
@@ -130,8 +132,6 @@ Microsoft 365 Copilot のエキサイティングな世界へようこそ。
     ![ピボットグラフを追加する Copilot in Excel のスクリーンショット。](./Media/copilot-excel-chart-design.png)
 
 1. ブックを保存し、Excel を終了します。
-
-これで、Copilot in Word から作成されたデータを使用して Excel で視覚化しました。 次の演習では、Copilot in Outlook の使用に進み、行った作業に関するメールを作成して送信します。
 
 ## Copilot を使用してプレゼンテーションの内容を作成する
 
