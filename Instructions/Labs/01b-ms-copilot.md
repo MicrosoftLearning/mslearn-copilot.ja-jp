@@ -23,7 +23,7 @@ Microsoft Copilot のエキサイティングな世界へようこそ。
 生成 AI の探索を始めるために、Edge で Microsoft Copilot を使用して既存のドキュメントを調べ、そこから分析情報を抽出することにします。
 
 1. Microsoft Edge で、`https://onedrive.live.com` の [OneDrive](https://onedrive.live.com) を参照し、個人用の Microsoft アカウントを使用してサインインします。表示されるウェルカム メッセージやオファーはすべて閉じます。
-1. 他のブラウザー タブで、`https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx` にある [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx) ドキュメントを開きます。 そして、Edge でドキュメントが開いたら、**[コピーして編集]** するオプションを選択し、OneDrive にドキュメントをコピーします。 その後、ドキュメントは Microsoft Word で自動的にオンラインで開きます。
+1. 他のブラウザー タブで、`https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx` にある [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx) ドキュメントを開きます。 そして、Edge でドキュメントが開いたら、**[コピーを編集]** するオプションを選択し、OneDrive にドキュメントをコピーします。 その後、ドキュメントは Microsoft Word で自動的にオンラインで開きます。
 
     > **ヒント**: コピーして編集するオプションが表示されない場合は、ローカル コンピューターにダウンロードします。 その後、**[+ 新規追加]** ボタンを使用して、**Business Idea.docx** ファイルをローカル コンピューターから OneDrive にアップロードします。
 
