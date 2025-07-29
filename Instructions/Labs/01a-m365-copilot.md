@@ -144,12 +144,16 @@ Copilot の支援を得て、クリーニング事業のアイデアに関する
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
     ```
+1. プレゼンテーション デザインを確認し、**[スライドを生成する]** を選択します。
 
+    ![Word ドキュメントから Copilot によって作成された PowerPoint プレゼンテーションのスクリーンショット。](./Media/copilot-generate-slides.png)
 1. Copilot によってプレゼンテーションのスライドが生成されます。  このプロセスには数分かかる場合があり、テーマは異なりますが、出力は次のようになります。
 
-    ![Word ドキュメントから Copilot によって作成された PowerPoint プレゼンテーションのスクリーンショット。](./Media/copilot-powerpoint-create-image.png)
+    ![Word ドキュメントから Copilot によって作成された PowerPoint プレゼンテーションのスクリーンショット。](./Media/generate-slides-copilot.png)
 
-1. プレゼンテーションの最後から 2 番目のスライドを選択します (Copilot がスライドを生成した場合、最後の *まとめ*スライドの前)。 次に、[Copilot] ペインのチャット ボックスで、**[View prompts]** アイコンを選択し、 **[Add a slide about...]** プロンプトを選択し、プロンプト `Add a slide about the benefits of an eco-friendly approach to cleaning.` を使用して新しいスライドを作成します
+1. **[保持する]** を選択し、PowerPoint プレゼンテーションの右下にある **[ビュー]** を **[ノーマル]** に設定します。  ![PowerPoint プレゼンテーションで新しいスライドを作成する様子を示すスクリーンショット。](./Media/normal-presentation-view.png)
+
+1. プレゼンテーションの最後から 2 番目のスライドを選択します (Copilot がスライドを生成した場合、最後の *まとめ*スライドの前)。 次に、[Copilot] ペインのチャット ボックスで、プロンプト `Add a slide about the benefits of an eco-friendly approach to cleaning.` を使用して新しいスライドを作成するように促します
 
     ![PowerPoint プレゼンテーションで新しいスライドが作成されたスクリーンショット。](./Media/copilot-powerpoint-add-new-slide.png)
 
