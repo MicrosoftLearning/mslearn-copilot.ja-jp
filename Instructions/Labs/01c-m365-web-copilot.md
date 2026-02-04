@@ -26,7 +26,7 @@ Microsoft 365 の Web 版を使った、この魅力的な対話型のラボを�
 - **すべてのアプリ**: [https://m365.cloud.microsoft/apps/](https://m365.cloud.microsoft/apps/)
 
 次のリンクを使用して、個々のアプリケーションに直接アクセスすることもできます。
-- **OneDrive**: [https://m365.cloud.microsoft/onedrive/](https://m365.cloud.microsoft/onedrive/)
+- **OneDrive**: [https://onedrive.cloud.microsoft/](https://onedrive.cloud.microsoft/)
 - **Word**: [https://word.cloud.microsoft/](https://word.cloud.microsoft/)
 - **Excel**: [https://excel.cloud.microsoft/](https://excel.cloud.microsoft/)
 - **PowerPoint**: [https://powerpoint.cloud.microsoft/](https://powerpoint.cloud.microsoft/)
@@ -38,7 +38,7 @@ Microsoft 365 の Web 版を使った、この魅力的な対話型のラボを�
 
 1. Web ブラウザーで、`https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx` にあるドキュメント [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx) を開きます。 
 1. ファイルが**ダウンロード** フォルダーにダウンロードします。
-1. Web 上の **OneDrive** ([https://m365.cloud.microsoft/onedrive/](https://m365.cloud.microsoft/onedrive/)) に移動し、ダウンロードした **Business Idea.docx** ドキュメントをアップロードします。
+1. Web 上の **OneDrive** ([https://onedrive.cloud.microsoft/](https://onedrive.cloud.microsoft/)) に移動し、ダウンロードした **Business Idea.docx** ドキュメントをアップロードします。
 1. **OneDrive** から、[https://word.cloud.microsoft/](https://word.cloud.microsoft/) に移動するか OneDrive でドキュメントをクリックして **Microsoft Word** (Web 版) で **Business Idea.docx** を開き (ウェルカム メッセージや新機能の通知は閉じます)、このドキュメントを確認します。ここには、ニューヨーク市のクリーニング ビジネスに関するおおまかなアイデアがいくつか記載されています。 メッセージが表示されたら、上部の **[編集を有効にする]** を選択します。
 
     > **ヒント**: **[ナビゲーション]** ペインを開いている場合は、閉じると、より多くのドキュメントを表示できます。
