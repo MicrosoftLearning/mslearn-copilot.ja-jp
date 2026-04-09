@@ -1,7 +1,16 @@
 ---
 lab:
   title: Microsoft 365 Copilot を探索する (Web バージョン)
+  description: この演習では、以下のことを行います。
+  ll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company using the web versions of Microsoft 365 applications.'
+  duration: 40 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
 ---
+
 # Microsoft 365 Copilot を探索する (Web バージョン)
 
 Web ベースの Microsoft 365 アプリケーションを活用したエキサイティングな Microsoft 365 Copilot の世界へようこそ

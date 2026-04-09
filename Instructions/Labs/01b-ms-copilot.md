@@ -1,7 +1,13 @@
 ---
 lab:
   title: Microsoft Edge で Copilot を探索する
+  description: この演習では、以下のことを行います。
+  ll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company.'
+  duration: 40 minutes
+  level: 100
+  islab: true
 ---
+
 # Microsoft Edge で Microsoft Copilot を探索する
 
 Microsoft Copilot のエキサイティングな世界へようこそ。
