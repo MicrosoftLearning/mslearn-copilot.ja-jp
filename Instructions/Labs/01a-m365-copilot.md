@@ -1,8 +1,7 @@
 ---
 lab:
   title: Microsoft 365 Copilot を探索する
-  description: この演習では、以下のことを行います。
-  ll harness the power of Copilot to explore a new business idea: starting a corporate cleaning company.'
+  description: この演習では、Copilot の力を利用して、企業向けクリーニング会社を設立するという新しいビジネス アイデアを探索します。
   duration: 40 minutes
   level: 100
   islab: true
