@@ -52,9 +52,9 @@ Microsoft 365 の Web 版を使った、この魅力的な対話型のラボを�
 
     > **ヒント**: **[ナビゲーション]** ペインを開いている場合は、閉じると、より多くのドキュメントを表示できます。
 
-1. 次に示すように、Word Web ツール バーの **[Copilot]** アイコンを見つけて選択し、[Copilot] ペインを開きます (ビジュアル テーマは異なっている場合があります)。
+1. 次に示すように、アプリケーションの右下にある **[Copilot]** アイコンを選択して [Copilot] ペインを開きます (実際のビジュアル テーマはこれとは異なる場合があります)。
 
-    ![Microsoft Word の [Copilot] ペインのスクリーンショット。](./Media/copilot-word-pane.png)
+    ![Microsoft Word の [Copilot] ペインのスクリーンショット。](./Media/copilot-word-pane-revised.png)
 
 1. [Copilot] ペインで、プロンプトに従って下部のテキスト領域に入力します。
 
