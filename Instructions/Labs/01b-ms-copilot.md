@@ -6,6 +6,7 @@ lab:
   duration: 40 minutes
   level: 100
   islab: true
+  status: null
 ---
 
 # Microsoft Edge で Microsoft Copilot を探索する
